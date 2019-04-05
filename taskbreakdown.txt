@@ -1,0 +1,3 @@
+Task Breakdown
+Xue & Vincent: Scribed 1st notebook involving Regression
+Wendy & Clifton: Scribed the 2nd notebook involving non-linear Regression
